@@ -21,7 +21,7 @@ Additional information:
 - This was built in SwiftUI and all navigation happens by refreshing the same page with different parameters in the ViewModel.
 - I found it easier to develop in Xcode and then paste in Playgrounds. Playgrounds code reload/preview is weird, not as automatic as in a standard Xcode project.
 - Supports both light and dark mode.
-- The full source code, fully commented, has 257 lines which is 2^7 + 1 (which is a newline at the end).
+- The full source code, fully commented, has 256 lines.
 
 ## Screenshots
 
